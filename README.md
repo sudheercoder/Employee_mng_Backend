@@ -6,11 +6,6 @@ Ye ek simple Node.js + Express + MongoDB (Mongoose) based backend project hai. I
 
 
 # Installation & Setup
-* Clone the Repository
-
-```bash
-git clone https://github.com/your-username/employee-management-system.git
-```
 
 # Navigate to Backend
 
